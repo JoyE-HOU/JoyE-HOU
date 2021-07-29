@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <table><tr><td valign="top" width="33%">
 
 
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" />
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
