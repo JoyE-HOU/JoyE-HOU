@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://github.com/JoyE-HOU/JoyE-HOU/blob/main/github_banner_profile.png" alt="banner that reads Joy Evans, Full-stack Software Engineer">
+<!--   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 </div>  
   
 
