@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <!--
 **JoyE-HOU/JoyE-HOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Joy, a full-time full-stack freelance developer 👩‍💻 since 2020 🚀</div>  
+### <div align="center">Hi there 👋 I'm Joy, a full-time full-stack freelance developer 👩‍💻 since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Ecolabels](https://github.com/JoyE-HOU/Ecolabels)  
