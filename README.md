@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<img src="https://github.com/JoyE-HOU/JoyE-HOU/blob/main/github_banner_profile.png" alt="banner that reads Joy Evans, Full-stack Software Engineer">
 <!--
 **JoyE-HOU/JoyE-HOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
