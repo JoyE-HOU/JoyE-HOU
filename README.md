@@ -1,5 +1,5 @@
-<!-- ### Hi there 👋 -->
-Hi there 👋  
+### Hi there 👋
+d
 
 <img src="https://github.com/JoyE-HOU/JoyE-HOU/blob/main/github_banner_profile.png" alt="banner that reads Joy Evans, Full-stack Software Engineer">
 <!--
