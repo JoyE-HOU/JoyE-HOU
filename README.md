@@ -92,6 +92,10 @@ Here are some ideas to get you started:
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
 Prompts with Case and If Statements
 https://joy-evans.medium.com/prompts-with-case-and-if-statements-bff29d79ca73
+Using Attributes: id & class
+https://joy-evans.medium.com/using-attributes-id-class-1e819d8a75f8
+Working Around JS Events: Click & Submit
+https://joy-evans.medium.com/working-around-js-events-click-submit-58b0d7725564
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
