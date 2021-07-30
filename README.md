@@ -90,6 +90,8 @@ Here are some ideas to get you started:
 ### Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
+Prompts with Case and If Statements
+https://joy-evans.medium.com/prompts-with-case-and-if-statements-bff29d79ca73
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
