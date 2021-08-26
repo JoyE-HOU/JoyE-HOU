@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 ### Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
+- Mutable & Immutable Objects https://joy-evans.medium.com/mutable-immutable-objects-f6370687a0b7
+
 - Understanding Closures https://joy-evans.medium.com/understanding-closures-17b9b2b4cea3
 
 - Working Around JS Events: Click & Submit https://joy-evans.medium.com/working-around-js-events-click-submit-58b0d7725564
