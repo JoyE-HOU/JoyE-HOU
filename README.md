@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 ### Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
+- Using Sum & Inject https://joy-evans.medium.com/using-sum-inject-b33c7ab9fdae
+  
 - Mutable & Immutable Objects https://joy-evans.medium.com/mutable-immutable-objects-f6370687a0b7
 
 - Understanding Closures https://joy-evans.medium.com/understanding-closures-17b9b2b4cea3
@@ -80,8 +82,6 @@ Here are some ideas to get you started:
 - Working Around JS Events: Click & Submit https://joy-evans.medium.com/working-around-js-events-click-submit-58b0d7725564
 
 - Using Attributes: id & class https://joy-evans.medium.com/using-attributes-id-class-1e819d8a75f8
-
-- Prompts with Case and If Statements https://joy-evans.medium.com/prompts-with-case-and-if-statements-bff29d79ca73
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
