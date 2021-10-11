@@ -73,6 +73,8 @@ Here are some ideas to get you started:
 ### Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
+- Writing A Ruby Program: Part II https://joy-evans.medium.com/writing-a-ruby-program-part-ii-72a79892950c
+  
 - Using Sum & Inject https://joy-evans.medium.com/using-sum-inject-b33c7ab9fdae
   
 - Mutable & Immutable Objects https://joy-evans.medium.com/mutable-immutable-objects-f6370687a0b7
