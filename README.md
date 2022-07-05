@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### <div align="center">Hi there 👋 I'm Joy, a full-time full-stack freelance developer 👩‍💻 since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [CrownReady](https://github.com/JoyE-HOU/CrownReady)  
+- 🔭 I’m currently working on [HealthSquad](https://github.com/JoyE-HOU/HealthSquad-BE)  
   
 
 - ⚡ Fun fact: Type `fg` and then hit enter if you accidentally hit `control + z` instead of `control + c` while using the rails server.  
