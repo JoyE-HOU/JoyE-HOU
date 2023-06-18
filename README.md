@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 
 <br/>  
 
@@ -76,6 +77,8 @@ Here are some ideas to get you started:
 ### Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 <!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
+- Java Journal: Sum of Integers https://joy-evans.medium.com/java-journal-sum-of-integers-f58bdba49a88
+
 - Writing A Ruby Program: Part II https://joy-evans.medium.com/writing-a-ruby-program-part-ii-72a79892950c
   
 - Using Sum & Inject https://joy-evans.medium.com/using-sum-inject-b33c7ab9fdae
